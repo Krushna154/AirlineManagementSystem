@@ -46,25 +46,25 @@ This section provides a visual overview of the different screens in the applicat
 
 ### **Mainframe**
 This is the main screen or homepage of the application.
-![Mainframe](AirlineManagementSystem/Images/Home.png)
+![Mainframe](Images/Home.png)
 
 ---
 
 ### **Add Customer**
 This screen is used to add new customer information.
-![Add Customer](AirlineManagementSystem/Images/AddCustomer.png)
+![Add Customer](Images/AddCustomer.png)
 
 ---
 
 ### **Flight Info**
 This screen displays detailed information about a specific flight.
-![Flight Info](AirlineManagementSystem/Images/FlightInfo.png)
+![Flight Info](Images/FlightInfo.png)
 
 ---
 
 ### **Book Flight**
 Use this screen to book a new flight.
-![Book Flight](AirlineManagementSystem/Images/BookFlight.png)
+![Book Flight](Images/BookFlight.png)
 
 ---
 

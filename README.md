@@ -70,13 +70,13 @@ Use this screen to book a new flight.
 
 ### **Boarding Pass**
 This screen shows the generated boarding pass for a booked flight.
-![Boarding Pass](AirlineManagementSystem/Images/BoardingPass.png)
+![Boarding Pass](Images/BoardingPass.png)
 
 ---
 
 ### **Cancellation**
 This screen is for canceling a flight booking.
-![Cancellation](AirlineManagementSystem/Images/Cancellation.png)
+![Cancellation](Images/Cancellation.png)
 
 ---
 
